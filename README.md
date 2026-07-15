@@ -117,4 +117,8 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0027-remove-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
