@@ -93,6 +93,7 @@ https://leetcode.com/u/SajinFarook/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
