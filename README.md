@@ -105,6 +105,7 @@ https://leetcode.com/u/SajinFarook/
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
 ## Binary Search
@@ -153,4 +154,12 @@ https://leetcode.com/u/SajinFarook/
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
