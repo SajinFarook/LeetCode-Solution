@@ -90,11 +90,13 @@ https://leetcode.com/u/SajinFarook/
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -133,6 +135,7 @@ https://leetcode.com/u/SajinFarook/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -182,5 +185,10 @@ https://leetcode.com/u/SajinFarook/
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
