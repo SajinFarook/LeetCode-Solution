@@ -83,10 +83,12 @@ https://leetcode.com/u/SajinFarook/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
