@@ -95,6 +95,7 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0771-jewels-and-stones](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0058-length-of-last-word/) | Easy |
+| [0771-jewels-and-stones](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3110-score-of-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
