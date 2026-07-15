@@ -88,6 +88,7 @@ https://leetcode.com/u/SajinFarook/
 | [0027-remove-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
