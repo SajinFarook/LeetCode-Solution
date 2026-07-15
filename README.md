@@ -95,6 +95,7 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ https://leetcode.com/u/SajinFarook/
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0058-length-of-last-word/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3110-score-of-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -165,4 +168,8 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
