@@ -137,6 +137,7 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0058-length-of-last-word/) | Easy |
+| [3110-score-of-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
