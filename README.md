@@ -96,6 +96,7 @@ https://leetcode.com/u/SajinFarook/
 | [0189-rotate-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +211,8 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
