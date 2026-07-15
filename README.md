@@ -113,6 +113,7 @@ https://leetcode.com/u/SajinFarook/
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,10 +151,12 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +167,7 @@ https://leetcode.com/u/SajinFarook/
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
