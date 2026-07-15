@@ -120,6 +120,7 @@ https://leetcode.com/u/SajinFarook/
 | [0367-valid-perfect-square](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [3099-harshad-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3099-harshad-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
