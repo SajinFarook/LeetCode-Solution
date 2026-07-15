@@ -110,6 +110,7 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
+| [0060-permutation-sequence](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
@@ -182,6 +183,7 @@ https://leetcode.com/u/SajinFarook/
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
