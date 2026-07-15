@@ -89,6 +89,7 @@ https://leetcode.com/u/SajinFarook/
 | [0035-search-insert-position](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
@@ -132,6 +133,7 @@ https://leetcode.com/u/SajinFarook/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
