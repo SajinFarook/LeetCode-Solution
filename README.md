@@ -108,12 +108,14 @@ https://leetcode.com/u/SajinFarook/
 | [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
