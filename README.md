@@ -99,6 +99,7 @@ https://leetcode.com/u/SajinFarook/
 | [0217-contains-duplicate](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
@@ -154,6 +155,7 @@ https://leetcode.com/u/SajinFarook/
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
