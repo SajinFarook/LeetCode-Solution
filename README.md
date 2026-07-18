@@ -105,6 +105,7 @@ https://leetcode.com/u/SajinFarook/
 | [0414-third-maximum-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
@@ -254,4 +255,5 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
