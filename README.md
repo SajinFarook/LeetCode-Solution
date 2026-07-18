@@ -98,6 +98,7 @@ https://leetcode.com/u/SajinFarook/
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
@@ -109,6 +110,7 @@ https://leetcode.com/u/SajinFarook/
 | [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -238,4 +240,8 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
