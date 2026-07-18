@@ -105,6 +105,7 @@ https://leetcode.com/u/SajinFarook/
 | [0414-third-maximum-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ https://leetcode.com/u/SajinFarook/
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
+| [0704-binary-search](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
