@@ -84,6 +84,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0027-remove-element/) | Easy |
@@ -135,6 +136,7 @@ https://leetcode.com/u/SajinFarook/
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -218,6 +220,7 @@ https://leetcode.com/u/SajinFarook/
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
