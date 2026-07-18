@@ -110,6 +110,7 @@ https://leetcode.com/u/SajinFarook/
 | [0643-maximum-average-subarray-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0724-find-pivot-index/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -179,6 +180,7 @@ https://leetcode.com/u/SajinFarook/
 | [0414-third-maximum-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ https://leetcode.com/u/SajinFarook/
 | [0189-rotate-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
