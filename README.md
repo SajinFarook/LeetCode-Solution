@@ -112,6 +112,7 @@ https://leetcode.com/u/SajinFarook/
 | [0724-find-pivot-index](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -197,6 +198,7 @@ https://leetcode.com/u/SajinFarook/
 | [0349-intersection-of-two-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
