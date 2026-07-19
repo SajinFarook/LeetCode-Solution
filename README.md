@@ -115,6 +115,7 @@ https://leetcode.com/u/SajinFarook/
 | [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -288,4 +289,8 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
