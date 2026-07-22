@@ -139,6 +139,7 @@ https://leetcode.com/u/SajinFarook/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
@@ -246,6 +247,7 @@ https://leetcode.com/u/SajinFarook/
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
@@ -316,5 +318,6 @@ https://leetcode.com/u/SajinFarook/
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
