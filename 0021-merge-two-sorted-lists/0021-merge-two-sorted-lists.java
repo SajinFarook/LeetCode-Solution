@@ -16,8 +16,8 @@ class Solution {
         if(list2==null){
             return list1;
         }
-        ListNode head=null;
-        ListNode tail=null;
+        ListNode head=new ListNode(0);
+        ListNode tail=head;
         ListNode temp=null;
         while(list1!=null && list2!=null){
             if(list1.val<=list2.val){
@@ -28,14 +28,8 @@ class Solution {
                  temp=new ListNode(list2.val);
                 list2=list2.next;
             }
-            if(head==null){
-                head=temp;
-                tail=head;
-            }
-            else{
-                tail.next=temp;
-                tail=tail.next;
-            }
+            tail.next=temp;
+            tail=tail.next;
         }
         if(list1==null){
             tail.next=list2;
@@ -43,6 +37,6 @@ class Solution {
         if(list2==null){
             tail.next=list1;
         }
-        return head;
+        return head.next;
     }
 }
