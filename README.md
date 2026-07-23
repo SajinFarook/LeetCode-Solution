@@ -217,6 +217,7 @@ https://leetcode.com/u/SajinFarook/
 | [0160-intersection-of-two-linked-lists](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -261,6 +262,7 @@ https://leetcode.com/u/SajinFarook/
 | [0203-remove-linked-list-elements](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
@@ -336,6 +338,11 @@ https://leetcode.com/u/SajinFarook/
 | [0160-intersection-of-two-linked-lists](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
