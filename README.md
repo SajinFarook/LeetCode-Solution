@@ -122,6 +122,7 @@ https://leetcode.com/u/SajinFarook/
 | [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
