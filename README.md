@@ -118,6 +118,7 @@ https://leetcode.com/u/SajinFarook/
 | [0905-sort-array-by-parity](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
@@ -205,6 +206,7 @@ https://leetcode.com/u/SajinFarook/
 | [0628-maximum-product-of-three-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -359,4 +361,8 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
