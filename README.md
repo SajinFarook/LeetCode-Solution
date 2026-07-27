@@ -114,6 +114,7 @@ https://leetcode.com/u/SajinFarook/
 | [0643-maximum-average-subarray-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
@@ -353,4 +354,9 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
