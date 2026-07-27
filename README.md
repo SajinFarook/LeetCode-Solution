@@ -234,6 +234,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0125-valid-palindrome/) | Easy |
@@ -350,5 +351,6 @@ https://leetcode.com/u/SajinFarook/
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
