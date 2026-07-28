@@ -81,8 +81,8 @@ https://leetcode.com/u/SajinFarook/
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0011-container-with-most-water/) | Medium |
@@ -120,6 +120,7 @@ https://leetcode.com/u/SajinFarook/
 | [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SajinFarook/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -128,8 +129,8 @@ https://leetcode.com/u/SajinFarook/
 | [2942-find-words-containing-character](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -142,11 +143,12 @@ https://leetcode.com/u/SajinFarook/
 | [0350-intersection-of-two-arrays-ii](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SajinFarook/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
@@ -169,8 +171,8 @@ https://leetcode.com/u/SajinFarook/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3099-harshad-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3099-harshad-number/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0069-sqrtx/) | Easy |
@@ -182,8 +184,8 @@ https://leetcode.com/u/SajinFarook/
 | [0367-valid-perfect-square](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
@@ -191,8 +193,8 @@ https://leetcode.com/u/SajinFarook/
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
@@ -209,10 +211,11 @@ https://leetcode.com/u/SajinFarook/
 | [0905-sort-array-by-parity](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SajinFarook/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -236,8 +239,8 @@ https://leetcode.com/u/SajinFarook/
 | [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -250,23 +253,23 @@ https://leetcode.com/u/SajinFarook/
 | [3110-score-of-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
@@ -279,70 +282,70 @@ https://leetcode.com/u/SajinFarook/
 | [0342-power-of-four](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0219-contains-duplicate-ii](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0164-maximum-gap](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0164-maximum-gap](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0164-maximum-gap/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0724-find-pivot-index](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -355,17 +358,17 @@ https://leetcode.com/u/SajinFarook/
 | [0237-delete-node-in-a-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0739-daily-temperatures](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
