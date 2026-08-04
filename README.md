@@ -383,4 +383,12 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
