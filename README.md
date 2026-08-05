@@ -173,6 +173,7 @@ https://leetcode.com/u/SajinFarook/
 | [0628-maximum-product-of-three-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [3099-harshad-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3099-harshad-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
