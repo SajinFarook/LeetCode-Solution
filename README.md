@@ -118,6 +118,7 @@ https://leetcode.com/u/SajinFarook/
 | [0704-binary-search](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0860-lemonade-change](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -322,6 +323,7 @@ https://leetcode.com/u/SajinFarook/
 | [0011-container-with-most-water](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
+| [0860-lemonade-change](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0860-lemonade-change/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
