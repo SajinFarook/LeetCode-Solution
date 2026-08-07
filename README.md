@@ -91,6 +91,7 @@ https://leetcode.com/u/SajinFarook/
 | [0027-remove-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -269,6 +270,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
@@ -321,6 +323,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0860-lemonade-change/) | Easy |
