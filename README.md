@@ -178,6 +178,7 @@ https://leetcode.com/u/SajinFarook/
 | [0877-stone-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2235-add-two-integers/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3099-harshad-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3099-harshad-number/) | Easy |
 | [3360-stone-removal-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -251,6 +252,7 @@ https://leetcode.com/u/SajinFarook/
 | [0905-sort-array-by-parity](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -303,6 +305,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
