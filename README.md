@@ -180,6 +180,7 @@ https://leetcode.com/u/SajinFarook/
 | [2235-add-two-integers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [3099-harshad-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3099-harshad-number/) | Easy |
 | [3360-stone-removal-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3360-stone-removal-game/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,6 +362,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
