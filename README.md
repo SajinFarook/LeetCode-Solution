@@ -126,6 +126,7 @@ https://leetcode.com/u/SajinFarook/
 | [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SajinFarook/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
@@ -149,6 +150,7 @@ https://leetcode.com/u/SajinFarook/
 | [0350-intersection-of-two-arrays-ii](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SajinFarook/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -176,6 +178,7 @@ https://leetcode.com/u/SajinFarook/
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -315,6 +318,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
