@@ -188,6 +188,7 @@ https://leetcode.com/u/SajinFarook/
 | [3099-harshad-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3099-harshad-number/) | Easy |
 | [3360-stone-removal-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3945-digit-frequency-score/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
