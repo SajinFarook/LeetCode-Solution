@@ -440,4 +440,5 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0175-combine-two-tables/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
