@@ -436,4 +436,8 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
