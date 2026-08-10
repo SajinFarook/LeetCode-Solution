@@ -136,6 +136,7 @@ https://leetcode.com/u/SajinFarook/
 | [2798-number-of-employees-who-met-the-target](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3731-find-missing-elements](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -157,6 +158,7 @@ https://leetcode.com/u/SajinFarook/
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3731-find-missing-elements](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@ https://leetcode.com/u/SajinFarook/
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SajinFarook/LeetCode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [3731-find-missing-elements](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
