@@ -151,6 +151,7 @@ https://leetcode.com/u/SajinFarook/
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0771-jewels-and-stones](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -283,6 +284,7 @@ https://leetcode.com/u/SajinFarook/
 | [0242-valid-anagram](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
@@ -335,6 +337,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Divide and Conquer
@@ -439,6 +442,7 @@ https://leetcode.com/u/SajinFarook/
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Database
 | Problem Name | Difficulty |
