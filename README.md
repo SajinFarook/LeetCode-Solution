@@ -170,6 +170,7 @@ https://leetcode.com/u/SajinFarook/
 | [0050-powx-n](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -213,6 +214,7 @@ https://leetcode.com/u/SajinFarook/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0268-missing-number/) | Easy |
@@ -279,6 +281,7 @@ https://leetcode.com/u/SajinFarook/
 | [0020-valid-parentheses](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0242-valid-anagram/) | Easy |
@@ -393,6 +396,7 @@ https://leetcode.com/u/SajinFarook/
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0067-add-binary/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [3360-stone-removal-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3360-stone-removal-game/) | Easy |
