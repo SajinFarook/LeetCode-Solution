@@ -187,6 +187,7 @@ https://leetcode.com/u/SajinFarook/
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1025-divisor-game/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -304,6 +305,7 @@ https://leetcode.com/u/SajinFarook/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,12 +334,14 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
+| [1025-divisor-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1025-divisor-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1025-divisor-game/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,4 +459,8 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0175-combine-two-tables/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
