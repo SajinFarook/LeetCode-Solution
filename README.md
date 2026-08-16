@@ -168,6 +168,7 @@ https://leetcode.com/u/SajinFarook/
 | [0002-add-two-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
@@ -217,6 +218,7 @@ https://leetcode.com/u/SajinFarook/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0231-power-of-two/) | Easy |
