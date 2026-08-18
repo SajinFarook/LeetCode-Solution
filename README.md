@@ -143,6 +143,7 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
@@ -168,6 +169,7 @@ https://leetcode.com/u/SajinFarook/
 | [0002-add-two-numbers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0060-permutation-sequence/) | Hard |
@@ -282,6 +284,7 @@ https://leetcode.com/u/SajinFarook/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
