@@ -138,6 +138,7 @@ https://leetcode.com/u/SajinFarook/
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
@@ -162,6 +163,7 @@ https://leetcode.com/u/SajinFarook/
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
