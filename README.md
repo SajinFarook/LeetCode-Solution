@@ -207,6 +207,7 @@ https://leetcode.com/u/SajinFarook/
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -477,4 +478,8 @@ https://leetcode.com/u/SajinFarook/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1025-divisor-game/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
