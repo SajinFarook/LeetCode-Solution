@@ -136,6 +136,7 @@ https://leetcode.com/u/SajinFarook/
 | [2798-number-of-employees-who-met-the-target](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -417,6 +418,7 @@ https://leetcode.com/u/SajinFarook/
 | [0067-add-binary](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0067-add-binary/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
