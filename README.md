@@ -140,6 +140,7 @@ https://leetcode.com/u/SajinFarook/
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
