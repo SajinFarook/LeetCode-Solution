@@ -90,6 +90,7 @@ https://leetcode.com/u/SajinFarook/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
@@ -178,6 +179,7 @@ https://leetcode.com/u/SajinFarook/
 | [0009-palindrome-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0066-plus-one/) | Easy |
@@ -387,6 +389,7 @@ https://leetcode.com/u/SajinFarook/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
