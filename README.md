@@ -482,6 +482,7 @@ https://leetcode.com/u/SajinFarook/
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/SajinFarook/LeetCode-Solution/tree/main/0182-duplicate-emails/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Impartial Game
 | Problem Name | Difficulty |
