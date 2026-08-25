@@ -295,6 +295,7 @@ https://leetcode.com/u/SajinFarook/
 | [1089-duplicate-zeros](https://github.com/SajinFarook/LeetCode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3794-reverse-string-prefix/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +316,7 @@ https://leetcode.com/u/SajinFarook/
 | [2351-first-letter-to-appear-twice](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/SajinFarook/LeetCode-Solution/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3110-score-of-a-string/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SajinFarook/LeetCode-Solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
